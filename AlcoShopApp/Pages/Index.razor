@@ -1,0 +1,17 @@
+﻿@page "/"
+@inject IShopService ShopService
+
+
+
+<h4>@Napis</h4>
+
+@code {
+
+    private string Napis { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Napis = ShopService.GetJakisString();
+    }
+
+}

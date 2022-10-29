@@ -1,0 +1,602 @@
+[
+  {
+    "Id": "6ab09d14-2a13-4479-a267-e259c0533e73",
+    "Name": "Metaxa",
+    "Capacity": 0.7,
+    "Type": "Koniak",
+    "Price": 67,
+    "Image": "https://propaganda24h.pl/environment/cache/images/0_0_productGfx_8216/METAXA-5-ORIGINAL-GREEK-SPIRIT-BRANDY-0%2C5L.jpg"
+  },
+  {
+    "Id": "facc3b35-9a65-4d94-8e76-b7002f26e005",
+    "Name": "Orkiszowa",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 69,
+    "Image": "https://wina-mp.pl/uploads/media/2685/4nIE1AhoqB1IfgU4y2EJ8emo99eXRF7Uu7EKvDK5.png"
+  },
+  {
+    "Id": "ea50f1ef-a5fc-4a3f-bac2-05a20c583e9c",
+    "Name": "CAPTAIN MORGAN ORIGINAL SPICED GOLD",
+    "Capacity": 0.7,
+    "Type": "Rum",
+    "Price": 71.99,
+    "Image": "https://propaganda24h.pl/environment/cache/images/500_500_productGfx_4a452cc0e959c2d1524a3a0eeb055f0a.jpg"
+  },
+  {
+    "Id": "4866bc98-e4f6-4f69-a50b-fc06db471224",
+    "Name": "Absinth 66",
+    "Capacity": 0.5,
+    "Type": "Absynt",
+    "Price": 148,
+    "Image": "https://sklep-domwhisky.pl/pol_pl_Absinth-66-66-0-5l-26981_1.jpg"
+  },
+  {
+    "Id": "8acd8c54-c394-49ff-9922-f722cf04d49d",
+    "Name": "Kah Reposado ",
+    "Capacity": 0.7,
+    "Type": "Tequila",
+    "Price": 239,
+    "Image": "https://propaganda24h.pl/environment/cache/images/500_500_productGfx_7811/KAH-REPOSADO-TEQUILA-0%2C7L-CZASZKA.jpg"
+  },
+  {
+    "Id": "ff911c61-8b48-49fb-8c9d-f167f49a6554",
+    "Name": "Cytynowa zbójecka",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 69.99,
+    "Image": "https://domalkoholi.pl/userdata/public/gfx/2741/zbojnicka-cytrynowa-1000.png"
+  },
+  {
+    "Id": "8e1186e0-2a26-4e6a-97f0-53fe4a17069a",
+    "Name": "Zajenbista Polska Wódka",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 44.99,
+    "Image": "https://domalkoholi.pl/userdata/public/gfx/1276/Zajenbista-Polska-Wodka.jpg"
+  },
+  {
+    "Id": "85878fa2-0337-43f6-a840-49d028d53ae9",
+    "Name": "Śliwowa Gorzałka",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 84.99,
+    "Image": "https://domalkoholi.pl/userdata/public/gfx/1016/Sliwowa-Gorzalka.jpg"
+  },
+  {
+    "Id": "df0849bb-eefa-4c67-aa42-74513df40cb3",
+    "Name": "Przepalanka Zbójnicka",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 69.99,
+    "Image": "https://domalkoholi.pl/userdata/public/gfx/2743/zbojnicka-przepalanka-1000.png"
+  },
+  {
+    "Id": "29bce912-0607-466d-a987-2652d164b651",
+    "Name": "Zajenbisty Bimber",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 82.99,
+    "Image": "https://domalkoholi.pl/userdata/public/gfx/238/bimber.jpg"
+  },
+  {
+    "Id": "ab3a0b6d-546e-4bff-8807-fb921afb8184",
+    "Name": "SIERRA TEQUILA",
+    "Capacity": 0.7,
+    "Type": "Tequila",
+    "Price": 172.97,
+    "Image": "https://kultowealkohole.pl/cache/images/resize/474-730/5c41d3f51814f.png"
+  },
+  {
+    "Id": "5d835aab-9f77-4a75-8c42-5af677051b1d",
+    "Name": "MOUNT GAY",
+    "Capacity": 0.7,
+    "Type": "Rum",
+    "Price": 159.99,
+    "Image": "https://kultowealkohole.pl/cache/images/resize/474-730/5f4f97dfaa47d.png"
+  },
+  {
+    "Id": "0e7caec4-321d-49ab-bb71-c8408b745314",
+    "Name": "FINSBURY WILD STRAWBERRY",
+    "Capacity": 0.7,
+    "Type": "Gin",
+    "Price": 51.99,
+    "Image": "https://kultowealkohole.pl/product/finsbury-wild-strawberry_14494"
+  },
+  {
+    "Id": "07918581-4ac6-458e-8b47-28564365570a",
+    "Name": "ŻUBRÓWKA KORZENNA MOC",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 27.49,
+    "Image": "https://kultowealkohole.pl/cache/images/resize/474-730/624acaabd1ebb.png"
+  },
+  {
+    "Id": "6fbb38aa-e4e6-4871-821f-31a3a8f33a7d",
+    "Name": "REMY MARTIN VSOP",
+    "Capacity": 0.7,
+    "Type": "Koniak",
+    "Price": 189.99,
+    "Image": "https://kultowealkohole.pl/cache/images/resize/474-730/5eaac3f11b117.png"
+  },
+  {
+    "Id": "5008b59e-53f9-4c39-8b11-7f4bbcc8ca62",
+    "Name": "FINLANDIA",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 44.99,
+    "Image": "https://alkoholemajer.pl/wp-content/uploads/2020/09/finlandia-300x300-1.jpg"
+  },
+  {
+    "Id": "afe580df-628a-47ef-a047-2b2166aa1d81",
+    "Name": "KRUPNIK",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 26.99,
+    "Image": "https://res.cloudinary.com/dj484tw6k/f_auto,q_auto,c_pad,b_white,w_524,h_524/v1642690355/819b5b3c-15d1-49c9-85d6-e708c4786cc2.jpg"
+  },
+  {
+    "Id": "c02ee65d-6e46-48c8-81e8-0144b8107981",
+    "Name": "SOPLICA",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 29.69,
+    "Image": "https://res.cloudinary.com/dj484tw6k/f_auto,q_auto,c_pad,b_white,w_524,h_524/v1593171498/3801.png"
+  },
+  {
+    "Id": "a6fe197a-4dee-4af0-9ba8-80eb318351f5",
+    "Name": "BOLS",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 24.99,
+    "Image": "https://alkoholemajer.pl/wp-content/uploads/2020/09/bols-platinum-500ml-300x300-1.jpg"
+  },
+  {
+    "Id": "e8491a7c-7d63-4ea4-94b0-a546035284d2",
+    "Name": "WYBOROWA",
+    "Capacity": 0.5,
+    "Type": "Wódka",
+    "Price": 36.99,
+    "Image": "https://alkoholemajer.pl/wp-content/uploads/2020/09/wyborowa-1-300x300-1.png"
+  },
+  {
+    "Id": "ad150bf3-7f16-4c5e-a2b3-bb3355b24500",
+    "Name": "Sambuca",
+    "Capacity": 0.5,
+    "Type": "Likier",
+    "Price": 73,
+    "Image": "https://aleeksalkohole.pl/userdata/public/gfx/8146/SAMBUCA-EXTRA-MOLINARI-0%2C5L.png"
+  },
+  {
+    "Id": "e126a95c-94d1-4294-a9e7-a2eba2a3ecc7",
+    "Name": "Sambuca",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 87,
+    "Image": "https://www.gourmetencasa-tcm.com/15536/sambuca-molinari-extra-70cl.jpg"
+  },
+  {
+    "Id": "9acd019a-5dcd-4fd4-85f3-0aff6ea8bce3",
+    "Name": "Pinot Grigio",
+    "Capacity": 0.7,
+    "Type": "Wino",
+    "Price": 35,
+    "Image": "https://ritex.pl/userdata/public/gfx/623/zenato_pg_bottle.jpg"
+  },
+  {
+    "Id": "eafbcecf-57bf-4164-9853-726331b342cc",
+    "Name": "Whiskey Bourbon Evan WIlliams White",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 125,
+    "Image": "https://alkoholeswiata24.pl/gfx/1663659407.7793.jpg"
+  },
+  {
+    "Id": "c6294ed0-9e4c-427f-b0ff-204952c4dd23",
+    "Name": "Johnnie Walker Green Label",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 599,
+    "Image": "https://alkoholeswiata24.pl/gfx/1481280618.0747.jpg"
+  },
+  {
+    "Id": "3caa9cad-21fb-4ee4-9f37-4b8712645205",
+    "Name": "Perła Export",
+    "Capacity": 0.5,
+    "Type": "Piwo",
+    "Price": 2.69,
+    "Image": "https://pl.wikipedia.org/wiki/Per%C5%82a_(piwo)#/media/Plik:Per%C5%82a_Chmielowa_Pils.jpg"
+  },
+  {
+    "Id": "9a658665-743e-4a70-b7f6-fa37f9ec05c4",
+    "Name": "Perła Porter Bałtycki",
+    "Capacity": 0.3,
+    "Type": "Piwo",
+    "Price": 4.99,
+    "Image": "https://pl.wikipedia.org/wiki/Per%C5%82a_(piwo)#/media/Plik:Per%C5%82a_Chmielowa_Pils.jpg"
+  },
+  {
+    "Id": "f76842cc-5362-4d30-ba47-97fa9007d931",
+    "Name": "Harnaś",
+    "Capacity": 0.5,
+    "Type": "Piwo",
+    "Price": 2.45,
+    "Image": "https://pl.wikipedia.org/wiki/Harna%C5%9B_(piwo)#/media/Plik:Bottle_cap_-_Harna%C5%9B.jpg"
+  },
+  {
+    "Id": "fbcc8150-3e09-44f3-8809-dcab4a25397e",
+    "Name": "Żubr ",
+    "Capacity": 0.5,
+    "Type": "Piwo",
+    "Price": 2.99,
+    "Image": "https://pl.wikipedia.org/wiki/%C5%BBubr_(piwo)#/media/Plik:%C5%BBubr_Klasyczny.png"
+  },
+  {
+    "Id": "b64686e1-c019-40f2-884b-280013cd2f5f",
+    "Name": "Tyskie",
+    "Capacity": 0.5,
+    "Type": "Piwo",
+    "Price": 3.15,
+    "Image": "https://pl.wikipedia.org/wiki/Tyskie#/media/Plik:Butelka_Tyskie_bez_cienia.png"
+  },
+  {
+    "Id": "ceebe8dc-d2a5-4879-a78a-1031cf109206",
+    "Name": "Sheridan's",
+    "Capacity": 0.5,
+    "Type": "Likier",
+    "Price": 61.5,
+    "Image": "https://alkohol-online.pl/26-likiery-aperitif-nalewki/1235-sheridans-500ml.html"
+  },
+  {
+    "Id": "dad1a385-179f-48d3-98cc-2145dbf3e7ee",
+    "Name": "Laufhund Bitter",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 46,
+    "Image": "https://alkohol-online.pl/26-likiery-aperitif-nalewki/2456-laufhund-bitter-700ml.html"
+  },
+  {
+    "Id": "d72b528e-e771-4d0a-98ff-614e2964bd5c",
+    "Name": "Cointreau Noir",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 161,
+    "Image": "https://alkohol-online.pl/44-likiery/2445-cointreau-noir-700ml.html"
+  },
+  {
+    "Id": "489df52e-d467-4034-831d-5d2818d0319a",
+    "Name": "Sheridan's",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 89.5,
+    "Image": "https://alkohol-online.pl/26-likiery-aperitif-nalewki/1234-sheridans-700ml.html"
+  },
+  {
+    "Id": "3d6ec993-e9b5-4090-865e-04a1333266a2",
+    "Name": "Grappa Bianca",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 86.5,
+    "Image": "https://alkohol-online.pl/44-likiery/1920-grappa-bianca-700ml.html"
+  },
+  {
+    "Id": "04652356-38f2-499c-abe0-da611ec9f442",
+    "Name": "Tequila Gran Patron Platinum 40% 0,7",
+    "Capacity": 0.7,
+    "Type": "Tequila",
+    "Price": 829.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_2838/patron-gran.jpg"
+  },
+  {
+    "Id": "0e2b1853-5719-40eb-bc54-c4ddaada224f",
+    "Name": "Tequila Herradura Plata 40% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Tequila",
+    "Price": 219.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_2842/herradura-plata.jpg"
+  },
+  {
+    "Id": "833145e0-6476-46ee-bc5b-b2d4e7646512",
+    "Name": "Tequila Patron Silver 40% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Tequila",
+    "Price": 229.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_2833/patron-silver.jpg"
+  },
+  {
+    "Id": "d4aeaff3-9f8b-4b58-b543-435b6393ebee",
+    "Name": "Tequila Patron Anejo 40% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Tequila",
+    "Price": 279.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_2836/patron-anejo.jpg"
+  },
+  {
+    "Id": "9028918b-34b4-431a-92df-39469f1a9beb",
+    "Name": "Tequila Herradura Reposado 40% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Tequila",
+    "Price": 229.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_2841/herradura-reposado.jpg"
+  },
+  {
+    "Id": "58fabd3d-b0c1-4d8c-8ec2-61a78927ac62",
+    "Name": "Rum Dictador 24YO 40% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Rum",
+    "Price": 344.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_2338/Dictador-24YO-w-ozdobnym-opakowaniu-1816_3.png"
+  },
+  {
+    "Id": "4d2d4ac3-4ddc-45a8-8363-2fa491f18e04",
+    "Name": "Dead Mans Fingers Coconut Rum 37,5% 1L",
+    "Capacity": 1,
+    "Type": "Rum",
+    "Price": 114.99,
+    "Image": "https://domalkoholi.pl/userdata/public/gfx/3136/dead-mans-finger-coconut-rum2.jpg"
+  },
+  {
+    "Id": "0382cd24-3096-4be0-b7ce-772c25a39c8b",
+    "Name": "Kraken Black Spiced Rum 40% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Rum",
+    "Price": 122.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_306/kraken1.jpg"
+  },
+  {
+    "Id": "0ecb3f8a-b6a1-4fc1-a384-0542584dc78a",
+    "Name": "Mermaid Gin 42% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Gin",
+    "Price": 229.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_2578/mermaid-gin.jpg"
+  },
+  {
+    "Id": "6a404f2e-6c3b-48cf-a684-ac244792a425",
+    "Name": "Śliwowica Polska 63% 0,7L",
+    "Capacity": 0.7,
+    "Type": "Śliwowica",
+    "Price": 214.99,
+    "Image": "https://domalkoholi.pl/userdata/public/gfx/1463/SLIWOWICA-polska.jpg"
+  },
+  {
+    "Id": "b436cf59-d368-42de-93ba-daf002e7b34c",
+    "Name": "Śliwowica Tatrzańska Krzepka 72% 0,5L",
+    "Capacity": 0.5,
+    "Type": "Śliwowica",
+    "Price": 144.99,
+    "Image": "https://domalkoholi.pl/environment/cache/images/0_0_productGfx_1966/sliwowica_krzepka_72.jpg"
+  },
+  {
+    "Id": "8dfd1a3c-2127-4d51-952b-f698be899dbe",
+    "Name": "Wódka Grey Goose 0,7l 40%",
+    "Capacity": 0.7,
+    "Type": "Wódka",
+    "Price": 190,
+    "Image": "https://blackbeard.store/505-home_default/wodka-grey-goose-07l-40.jpg"
+  },
+  {
+    "Id": "87af7b9a-1502-4b6b-9481-16d84caaab11",
+    "Name": "Whisky Brora 37YO / 700ml / 50,4%",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 11500,
+    "Image": "https://blackbeard.store/1662-thickbox_default/whisky-brora-37yo-700ml-504.jpg"
+  },
+  {
+    "Id": "a38d25d6-f89f-4e91-aeff-43b2d49c2676",
+    "Name": "Wino10 Vendemmie / 750 ml / 14,5%",
+    "Capacity": 0.7,
+    "Type": "Wino",
+    "Price": 190,
+    "Image": "https://blackbeard.store/1092-thickbox_default/wino10-vendemmie-750-ml-145.jpg"
+  },
+  {
+    "Id": "1c64553f-8282-4505-ac12-84540635855d",
+    "Name": "Wino patykiem pisane :)",
+    "Capacity": 0.7,
+    "Type": "Polskie specjały",
+    "Price": 4.99,
+    "Image": "https://static.myvimu.com/photo/54/63265423.jpg"
+  },
+  {
+    "Id": "c2875900-fdd8-4aca-8e5a-3c9b1f14fdee",
+    "Name": "Komandos STRONG",
+    "Capacity": 0.7,
+    "Type": "Polskie specjały",
+    "Price": 5.99,
+    "Image": "https://bazarek.gallery/309065/16906/2912485/14518946974ed6aa65cdc62.jpg"
+  },
+  {
+    "Id": "5e4c1aa9-6a83-480a-b921-5b673e5d4ee4",
+    "Name": "KELERIS by Bierdonka",
+    "Capacity": 0.7,
+    "Type": "Polskie specjały",
+    "Price": 5,
+    "Image": "https://www.wykop.pl/cdn/c3201142/comment_1648984408P8vzmkBUSP3h6sUEkolow2.jpg"
+  },
+  {
+    "Id": "47956abf-9cb5-4d04-ae0d-b5a0e9dac6e7",
+    "Name": "Piwoteka Łódzkie Graffiti",
+    "Capacity": 0.5,
+    "Type": "Piwo",
+    "Price": 7.99,
+    "Image": "https://ocen-piwo.pl/upload/b3c4ebca92198130d54917eb8f44e527.webp"
+  },
+  {
+    "Id": "056d4fb8-e50c-42e9-b60e-9ad4dfbc9a79",
+    "Name": "Tullamore Dew",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 73,
+    "Image": "https://cdn.kukunawa.pl/ii/4427/0/4427-a.37974.webp"
+  },
+  {
+    "Id": "5e5491fd-e282-439e-99d1-ae877c33a90d",
+    "Name": "Jack Daniel's",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 87,
+    "Image": "https://alkoholemajer.pl/wp-content/uploads/2020/07/jack-daniels.jpg"
+  },
+  {
+    "Id": "472dea4b-83e6-4e89-b20f-b15db36acea1",
+    "Name": "Bocian",
+    "Capacity": 0.7,
+    "Type": "Wódka",
+    "Price": 48.9,
+    "Image": "https://alkoholeswiata24.pl/gfx/big/1571996022.4951.jpg"
+  },
+  {
+    "Id": "b6ce2906-4fc0-4e33-88a0-08f2aa996033",
+    "Name": "Jägermeister",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 69,
+    "Image": "https://image.ceneostatic.pl/data/products/42793756/i-jagermeister-700ml-likier-ziolowy.jpg"
+  },
+  {
+    "Id": "284ebf03-6fe3-46e6-8dec-45884b9b053b",
+    "Name": "Bacardi Carta Oro ",
+    "Capacity": 1,
+    "Type": "Rum",
+    "Price": 94.92,
+    "Image": "https://lacave.com.pl/2251-large_default/bacardi-carta-oro-rum-1-l.jpg"
+  },
+  {
+    "Id": "f6659ccb-6415-4963-a6e7-9ed46cab82c1",
+    "Name": "Ballantine'S",
+    "Capacity": 1,
+    "Type": "Whiskey",
+    "Price": 94.58,
+    "Image": "https://image.ceneostatic.pl/data/products/33118098/i-ballantine-s-finest-whisky-1l.jpg"
+  },
+  {
+    "Id": "53832e84-8a23-4679-b9fb-4c78405c53c2",
+    "Name": "Sheridans Likier",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 51.94,
+    "Image": "https://image.ceneostatic.pl/data/products/33118869/i-sheridans-likier-15-5-500ml.jpg"
+  },
+  {
+    "Id": "36aff9ff-5fc2-437b-ac2f-b5ac3c0d1a79",
+    "Name": "Xenta Absenta",
+    "Capacity": 0.7,
+    "Type": "Likier",
+    "Price": 131,
+    "Image": "https://www.wine-searcher.com/images/labels/45/81/10414581.jpg?width=466&height=400&fit=bounds"
+  },
+  {
+    "Id": "566a31f6-f922-49aa-bc94-bd786770da33",
+    "Name": "Wódka Chopin Rye",
+    "Capacity": 1.75,
+    "Type": "Wódka",
+    "Price": 179,
+    "Image": "https://smaczajama.pl/userdata/public/gfx/20359/chopin-rye-karton-logo.jpg"
+  },
+  {
+    "Id": "c43e58f3-cd65-4711-85aa-3d75b4ac3cc5",
+    "Name": "Ardbeg TEN 10-letni / 46% / 0,7l",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 232,
+    "Image": "https://squadwhisky.pl/wp-content/uploads/2020/11/0000000023-ARDBEG-10-YO-SQUAD-WHISKY.png"
+  },
+  {
+    "Id": "4d60c4f4-3d1a-4273-b195-e98dfa97e0b9",
+    "Name": "WÓDKA BABA YAGA 1L 40%",
+    "Capacity": 1,
+    "Type": "Wódka",
+    "Price": 129,
+    "Image": "https://alkoholeswiata24.pl/gfx/1574940804.4117.jpg"
+  },
+  {
+    "Id": "d0c1788d-25d8-422c-9709-a3331899fa33",
+    "Name": "BELVEDERE SINGLE ESTATE RYE LAKE BARTĘŻEK 0,7L",
+    "Capacity": 0.7,
+    "Type": "Wódka",
+    "Price": 235,
+    "Image": "https://propaganda24h.pl/environment/cache/images/500_500_productGfx_7896/BELVEDERE-SINGLE-ESTATE-RYE-LAKE-BARTEZEK-0%2C7L.jpg"
+  },
+  {
+    "Id": "a9106428-20d4-472f-bc41-07ab870b9037",
+    "Name": "OSTOYA VODKA 3L",
+    "Capacity": 3,
+    "Type": "Wódka",
+    "Price": 399,
+    "Image": "https://propaganda24h.pl/environment/cache/images/500_500_productGfx_e5642f3f2f09cc501b3086de6a7b5f79.jpg"
+  },
+  {
+    "Id": "ef7d5616-4fd0-4299-b7ea-70e8d0d0b63f",
+    "Name": "John Walker Red Label",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 59.99,
+    "Image": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://krest.pl/pl/p/Johnnie-Walker-Red-Label-0%252C7L-40/2912&ved=2ahUKEwiHrqrIlIX7AhUEiIsKHalxCuQQFnoECEUQAQ&usg=AOvVaw3LDZn0CaS1LLFCCQk9tmbV"
+  },
+  {
+    "Id": "2cc27094-60a3-4375-ac2c-8b55bdc76901",
+    "Name": "John Walker Blue Label ",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 945,
+    "Image": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://propaganda24h.pl/pl/p/JOHNNIE-WALKER-BLUE-LABEL-WHISKY-0%252C7L-OPAKOWANIE/147&ved=2ahUKEwiWvM_olIX7AhVyx4sKHfvcC1kQFnoECDcQAQ&usg=AOvVaw1thZCCRz0IUf6t_f4jgNOW"
+  },
+  {
+    "Id": "69d01535-adb4-4b92-b794-12a86dae853d",
+    "Name": "John Walker Black Label",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 109,
+    "Image": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://sklep-domwhisky.pl/product-pol-6968-Johnnie-Walker-Black-12-letni-40-0-7l.html&ved=2ahUKEwjTisXPm4X7AhVv_SoKHTqIBmIQFnoECBEQAQ&usg=AOvVaw0Vdo3PKiXoiq06sPyYIy2Q"
+  },
+  {
+    "Id": "8af51135-fbaa-4df1-a90e-7697783aed4a",
+    "Name": "John Walker Green Label",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 179,
+    "Image": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://sklep-domwhisky.pl/product-pol-16528-Johnnie-Walker-Green-Label-15-letni-Blended-Malt-43-0-7l.html&ved=2ahUKEwj55uv-m4X7AhWNtIsKHWWqBwkQFnoECA4QAQ&usg=AOvVaw1p3xyZTlqHzyxO4fP8jpjq"
+  },
+  {
+    "Id": "c16c6a94-fc99-49d4-a8af-0740b717aa07",
+    "Name": "John Walker Gold Label",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 154,
+    "Image": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://sklep-domwhisky.pl/product-pol-5865-Johnnie-Walker-Gold-Label-Reserve-40-0-7l.html&ved=2ahUKEwjFgL2PnIX7AhWDzosKHQq7CyUQFnoECA4QAQ&usg=AOvVaw1DG5AW5j7DTh9Srbx1Y0Ix"
+  },
+  {
+    "Id": "04ace6bf-f803-4d94-a6c1-b9bcfd4fcb46",
+    "Name": "Johnnie Walker Platinium Label",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 369,
+    "Image": "https://swiat-whisky.sklep.pl/1818-large_default/johnnie-walker-platinum-label-18yo-40-07-l.jpg"
+  },
+  {
+    "Id": "f4cc1a61-e6b8-4394-be84-ec593d2e62f4",
+    "Name": "Kustosz Tequilla",
+    "Capacity": 0.5,
+    "Type": "Piwo",
+    "Price": 3.5,
+    "Image": "https://d1onh8pwvkaf3n.cloudfront.net/beer_thumbnails/1648015493-kustosz-o-smaku-tequili.jpg"
+  },
+  {
+    "Id": "b5733612-1809-4ecc-bfa2-978c3586d92c",
+    "Name": "Jack Daniel's Honey",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 89,
+    "Image": "https://sklep-domwhisky.pl/pol_pl_Jack-Daniels-Tennessee-Honey-35-0-7l-7055_1.jpg"
+  },
+  {
+    "Id": "c722fc53-4044-46e1-85c9-6d68bb088fd1",
+    "Name": "Jack Daniel's Apple",
+    "Capacity": 0.7,
+    "Type": "Whiskey",
+    "Price": 87,
+    "Image": "https://sklep-domwhisky.pl/pol_pl_Jack-Daniels-Tennessee-Apple-35-0-7l-19540_2.jpg"
+  }
+]
