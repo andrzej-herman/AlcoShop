@@ -1,17 +1,15 @@
 ﻿@page "/"
-@inject IShopService ShopService
+@using AlcoShopCommon;
+@inject IAlcoService AlcoService
 
-
-
-<h4>@Napis</h4>
+<AlcoHeader/>
 
 @code {
 
-    private string Napis { get; set; }
+    IEnumerable<Product> Products { get; set; }
 
-    protected override void OnInitialized()
-    {
-        Napis = ShopService.GetJakisString();
-    }
-
+    //protected override void OnInitialized()
+    //{
+    //    Products = AlcoService.GetRandomProducts();
+    //}
 }

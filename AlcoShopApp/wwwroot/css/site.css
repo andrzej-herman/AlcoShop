@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&display=swap');
 
-* {
+html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,4 +10,19 @@
 .page {
     height: 100vh;
 }
- 
+
+
+.alco-header {
+    background-color: #3D8C40;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.alco-header-title {
+    color: #fff;
+    font-size: 36px;
+}
