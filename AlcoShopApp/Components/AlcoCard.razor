@@ -1,0 +1,14 @@
+﻿<div class="card alco-card">
+    <img src="@Alcohol.Image" class="card-img-top alco-image" alt="@Alcohol.Name">
+  <div class="card-body">
+        <h5 class="card-title">@Alcohol.Name</h5>
+        <h3 class="card-price">Cena: @Alcohol.Price PLN</h3>
+    <a href="#" class="btn btn-primary">Szczegóły</a>
+  </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public Product Alcohol { get; set; }
+}

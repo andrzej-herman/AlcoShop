@@ -1,15 +1,23 @@
 ﻿@page "/"
 @using AlcoShopCommon;
-@inject IAlcoService AlcoService
+@inject IAlcoService Service
 
-<AlcoHeader/>
+<AlcoHeader Title="San Alco Shop"/>
+<div class="container">
+    <AlcoSearchBar />
+    <AlcoCatalog Alcohols="@AlcoholsToDisplay"/>
+</div>
+
 
 @code {
 
-    IEnumerable<Product> Products { get; set; }
+    List<Product> AlcoholsToDisplay { get; set; }
 
-    //protected override void OnInitialized()
-    //{
-    //    Products = AlcoService.GetRandomProducts();
-    //}
+    protected override void OnInitialized()
+    {
+        AlcoholsToDisplay = Service.GetRandomProducts().ToList();
+    }
+
+    // zacząć nastepne zajęcia od:
+    // przekazać SearchText z wyszukiwarki tutaj
 }

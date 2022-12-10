@@ -19,10 +19,48 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 400px;
 }
 
 .alco-header-title {
     color: #fff;
     font-size: 36px;
+}
+
+.search-bar {
+    padding: 20px 0 20px 0;
+}
+
+.alco-catalog {
+    padding: 20px 0 35px 0;
+}
+
+.alco-catalog-title {
+    color: #3D8C40;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.alco-catalog-container {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card-price {
+    color: #3D8C40;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.alco-card {
+    margin: 15px;
+    min-width: 300px;
+    width: 300px;
+}
+
+.alco-image {
+    max-height: 400px;
+    height: 400px;
 }

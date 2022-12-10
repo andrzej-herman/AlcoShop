@@ -1,0 +1,25 @@
+﻿
+<div class="alco-catalog">
+    <div class="alco-catalog-title">Dzisiaj w promocji</div>
+    <div class="alco-catalog-container">
+        @if (Alcohols.Any())
+        {
+            @foreach (var alco in Alcohols)
+            {
+                <AlcoCard Alcohol="@alco" />
+            }
+        }
+        else
+        {
+            <p>Brak produktów spełniająych kryteria</p>
+        }
+
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public List<Product> Alcohols { get; set; } = new List<Product>();
+
+}
